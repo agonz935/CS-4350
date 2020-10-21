@@ -1,3 +1,2 @@
-* linguist-vendored
-*.sh linguist-vendored=false
-*.c linguist-vendored=false
+*.sh linguist-detectable=false
+*.c linguist-detectable=false
